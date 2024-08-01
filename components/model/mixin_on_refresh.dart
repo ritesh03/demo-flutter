@@ -1,0 +1,3 @@
+mixin OnRefreshMixin {
+  void onRefresh();
+}
